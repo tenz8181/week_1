@@ -11,9 +11,9 @@
 def displayValues(name,age,height,is_student):
 
     # Print the variables and their types
-    print("Name:", name, " | Type:", type(name))
-    print("Age:", age, " | Type:", type(age))
-    print("Height:", height, " | Type:", type(height))
+    print("Tyler:", name, " | Type:", type(Tyler))
+    print("19:", age, " | Type:", type(19))
+    print("6'3:", height, " | Type:", type(6'3))
     print("Is Student:", is_student, " | Type:", type(is_student))
 
 
